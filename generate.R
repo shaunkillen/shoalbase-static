@@ -175,7 +175,7 @@ a { color: #D45F14; }
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 700;
   letter-spacing: 0.3px;
   padding: 4px 0;
   cursor: pointer;
@@ -207,7 +207,7 @@ a { color: #D45F14; }
 .dropdown:hover .dropdown-content { display: block; }
 .dropdown-content a {
   display: block;
-  color: #fff;
+  color: #FFF4D9;
   text-decoration: none;
   padding: 6px 12px;
   font-family: "Poppins", sans-serif;
