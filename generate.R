@@ -171,7 +171,7 @@ a { color: #D45F14; }
 }
 .site-nav > a,
 .site-nav .dropdown > span {
-  color: #fff;
+  color: #FFF4D9;
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
