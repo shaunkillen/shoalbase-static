@@ -1,0 +1,27 @@
+User-agent: *
+Crawl-delay: 10
+Allow: /
+
+Sitemap: https://species.shoalbase.org/sitemap.xml
+
+# Block aggressive AI/scraper bots that don't benefit you
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
