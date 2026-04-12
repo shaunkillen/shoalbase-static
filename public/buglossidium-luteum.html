@@ -12,38 +12,146 @@
 <meta property="og:type" content="article">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Taxon","name":"Buglossidium luteum","alternateName":"solenette","parentTaxon":"Soleidae","taxonRank":"species","url":"https://species.shoalbase.org/buglossidium-luteum.html"}</script>
 <style>
-body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-       background:#fef5d7; color:#000; margin:0; }
-.container { max-width: 1200px; margin: 0 auto; padding: 20px 10px 40px; }
-h1, h2, h3, h4 { color: #000; font-weight: 600; }
-h1 { font-style: italic; color: #2c3e50; margin-bottom: 4px; }
-h1 .common { font-style: normal; font-weight: 400; color:#7a4a2b; font-size: 0.6em; }
+* { box-sizing: border-box; }
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:#1B6BA6;
+  color:#000;
+  margin:0;
+}
 a { color: #D45F14; }
 
-/* Nav tabs mirroring the Shiny app */
-.nav-tabs {
-  border-bottom: 2px solid #F57627;
-  margin: 10px 0 20px 0;
-  padding: 0;
-  list-style: none;
+/* =============== Header =============== */
+.site-header {
+  background: #1B6BA6;
+  padding: 20px 40px;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   flex-wrap: wrap;
-  gap: 2px;
+  gap: 20px;
 }
-.nav-tabs a {
-  display: inline-block;
-  padding: 8px 18px;
-  color: #D45F14;
-  font-weight: 500;
-  font-size: 16px;
+.site-header .logo img {
+  height: 72px;
+  display: block;
+}
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+.site-nav > a, .site-nav .dropdown > span {
+  color: #fff;
   text-decoration: none;
-  border-radius: 8px 8px 0 0;
-  transition: background-color 0.12s ease;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  padding: 4px 0;
+  cursor: pointer;
 }
-.nav-tabs a:hover { background-color: #FFE3CC; }
-.nav-tabs a.active { color: #fff; background-color: #F57627; }
+.site-nav > a:hover,
+.site-nav .dropdown:hover > span {
+  text-decoration: underline;
+}
+.site-nav .active {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
 
-/* Summary card (matches the species-profile card in the app) */
+/* Dropdown */
+.dropdown { position: relative; }
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1B6BA6;
+  padding: 8px 0 4px 0;
+  min-width: 260px;
+  text-align: center;
+  z-index: 10;
+}
+.dropdown:hover .dropdown-content { display: block; }
+.dropdown-content a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 12px;
+  font-size: 15px;
+}
+.dropdown-content a:hover { text-decoration: underline; }
+
+/* =============== Container =============== */
+.page-frame {
+  background: #1B6BA6;
+  padding: 10px 20px 0 20px;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #fef5d7;
+  border-radius: 24px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  padding: 30px 40px 50px;
+  position: relative;
+  border: 3px solid #F4A460;
+}
+
+/* =============== Footer =============== */
+.site-footer-wrap {
+  background: #1B6BA6;
+  margin-top: 0;
+}
+.site-footer-wave {
+  display: block;
+  width: 100%;
+  height: 100px;
+}
+.site-footer {
+  background: #F4A460;
+  padding: 30px 40px 50px 40px;
+}
+.site-footer-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.footer-brand h2 {
+  color: #1B6BA6;
+  font-size: 38px;
+  font-weight: 500;
+  margin: 0 0 10px 0;
+}
+.footer-brand p {
+  color: #000;
+  font-size: 16px;
+  margin: 0;
+}
+.footer-meta {
+  text-align: right;
+  color: #000;
+  font-size: 15px;
+}
+.footer-meta .credits {
+  margin-bottom: 10px;
+}
+.footer-links a {
+  color: #000;
+  text-decoration: underline;
+  margin: 0 3px;
+}
+
+/* =============== Content styles =============== */
+h1, h2, h3, h4 { color: #000; font-weight: 600; }
+h1 { font-style: italic; color: #2c3e50; margin-bottom: 4px; }
+h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.6em; }
+
 .summary {
   background: #FFE3CC;
   border: 2px solid #F57627;
@@ -53,7 +161,12 @@ a { color: #D45F14; }
 }
 .summary table { width: 100%; border-collapse: collapse; font-size: 15px; }
 .summary td { padding: 5px 0; vertical-align: top; }
-.summary td.label { color: #D45F14; font-weight: 600; width: 190px; padding-right: 12px; }
+.summary td.label {
+  color: #D45F14;
+  font-weight: 600;
+  width: 190px;
+  padding-right: 12px;
+}
 
 .photo { text-align: center; margin: 20px 0; }
 .photo img {
@@ -64,17 +177,14 @@ a { color: #D45F14; }
   box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 .photo-caption {
-  text-align: center; font-size: 11px; color: #7a4a2b;
-  margin-top: 6px; font-style: italic;
+  text-align: center;
+  font-size: 11px;
+  color: #7a4a2b;
+  margin-top: 6px;
+  font-style: italic;
 }
 
-/* Buttons — matched to the app palette */
-.btn-row {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin: 20px 0;
-}
+.btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0; }
 .btn {
   display: inline-block;
   padding: 10px 18px;
@@ -84,19 +194,14 @@ a { color: #D45F14; }
   font-weight: 600;
   font-size: 14px;
 }
-.btn-app {
-  background: #F57627;
-  font-size: 16px;
-  padding: 12px 22px;
-}
-.btn-fishbase  { background: #F57627; }
-.btn-google    { background: #097FC8; }
-.btn-scholar   { background: #4285F4; }
-.btn-inat      { background: #74AC00; }
-.btn-gbif      { background: #4A9A3C; }
-.btn-iucn      { background: #CC0000; }
+.btn-app { background: #F57627; font-size: 16px; padding: 12px 22px; }
+.btn-fishbase { background: #F57627; }
+.btn-google   { background: #097FC8; }
+.btn-scholar  { background: #4285F4; }
+.btn-inat     { background: #74AC00; }
+.btn-gbif     { background: #4A9A3C; }
+.btn-iucn     { background: #CC0000; }
 
-/* Index table */
 .species-table {
   width: 100%;
   border-collapse: collapse;
@@ -121,33 +226,63 @@ a { color: #D45F14; }
   line-height: 1.5;
   color: #4a2e15;
 }
-
-.footer {
-  margin-top: 40px;
-  font-size: 13px;
-  color: #7a4a2b;
-  border-top: 1px solid #e8d4b5;
-  padding-top: 16px;
-  line-height: 1.6;
-}
-.footer a { color: #D45F14; }
 </style>
 </head>
 <body>
+
+<header class="site-header">
+  <div class="logo">
+    <a href="https://shoalbase.org">
+      <img src="https://images.squarespace-cdn.com/content/v1/691b14adf514f737b93a0eef/c887f545-5d46-44f7-a2b8-0feb868d28e5/shoalbase+logo+blue.png?format=1500w" alt="ShoalBase">
+    </a>
+  </div>
+  <nav class="site-nav">
+    <a href="https://shoalbase.org/about">About</a>
+    <a href="https://shoalbase.org/contribute">Contribute!</a>
+    <div class="dropdown">
+      <span class="active">Explore the Data</span>
+      <div class="dropdown-content">
+        <a href="https://shaunkillen.shinyapps.io/shoalshare_1/">Interactive Data Exploration &amp; Download</a>
+        <a href="https://species.shoalbase.org/">Browse Species</a>
+      </div>
+    </div>
+    <a href="https://shoalbase.org/observation-tips">Observation Tips</a>
+    <a href="https://shoalbase.org/methods">Methods</a>
+    <a href="https://shoalbase.org/faq">FAQ</a>
+    <a href="https://shoalbase.org/contact">Contact</a>
+  </nav>
+</header>
+
+<div class="page-frame">
 <div class="container">
-<ul class="nav-tabs">
-  <li><a href="https://shoalbase.org">ShoalBase home</a></li>
-  <li><a href="https://species.shoalbase.org/" class="">All species</a></li>
-  <li><a href="https://shaunkillen.shinyapps.io/shoalshare_1/">Interactive app</a></li>
-</ul>
 <h1>Buglossidium luteum <span class="common">solenette</span></h1><p style="font-size:16px; line-height:1.5;">ShoalBase has <strong>1 record</strong> for this species.</p><div class="photo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Buglossidium_luteum.jpg/500px-Buglossidium_luteum.jpg" alt="Buglossidium luteum"></div><div class="photo-caption">Image from Wikimedia Commons. <a href="https://en.wikipedia.org/wiki/Buglossidium%20luteum" target="_blank">View source &amp; attribution</a></div><div class="summary"><table><tr><td class="label">Social systems</td><td>solitary</td></tr><tr><td class="label">Group sizes</td><td>solitary</td></tr><tr><td class="label">Habitats</td><td>benthic marine</td></tr><tr><td class="label">Life stages observed</td><td>adult</td></tr><tr><td class="label">Evidence sources</td><td>online resource (website or database)</td></tr><tr><td class="label">Countries</td><td><em>not reported</em></td></tr><tr><td class="label">Family</td><td>Soleidae</td></tr><tr><td class="label">Order</td><td>Pleuronectiformes</td></tr><tr><td class="label">Class</td><td>Teleostei</td></tr></table></div><div class="btn-row"><a class="btn btn-app" href="https://shaunkillen.shinyapps.io/shoalshare_1/?species=Buglossidium%20luteum">Explore interactively on ShoalBase →</a></div><div class="btn-row"><a class="btn btn-fishbase" href="https://www.fishbase.se/summary/SpeciesSummary.php?genusname=Buglossidium&amp;speciesname=luteum" target="_blank">FishBase →</a><a class="btn btn-google" href="https://www.google.com/search?tbm=isch&amp;q=Buglossidium%20luteum" target="_blank">Google Images →</a><a class="btn btn-scholar" href="https://scholar.google.com/scholar?q=Buglossidium%20luteum" target="_blank">Google Scholar →</a><a class="btn btn-inat" href="https://www.inaturalist.org/taxa/search?q=Buglossidium%20luteum" target="_blank">iNaturalist →</a><a class="btn btn-gbif" href="https://www.gbif.org/species/search?q=Buglossidium%20luteum" target="_blank">GBIF →</a><a class="btn btn-iucn" href="https://www.iucnredlist.org/search?query=Buglossidium%20luteum" target="_blank">IUCN Red List →</a></div>
-<div class="footer">
-  <strong>ShoalBase</strong> is a living, community-contributed database of fish social behaviour. New records are added regularly and existing entries are subject to ongoing curation. The content of this page reflects submissions as of 12 April 2026.
-  <br><br>
-  <a href="https://shoalbase.org">Return to ShoalBase home</a> &nbsp;&middot;&nbsp;
-  <a href="https://shaunkillen.shinyapps.io/shoalshare_1/">Explore the interactive app</a> &nbsp;&middot;&nbsp;
-  <a href="https://species.shoalbase.org/">Browse all species</a>
 </div>
 </div>
+
+<div class="site-footer-wrap">
+  <svg class="site-footer-wave" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,60 C280,100 520,0 800,40 C1100,85 1300,30 1440,50 L1440,100 L0,100 Z" fill="#F4A460"/>
+  </svg>
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <div class="footer-brand">
+        <h2>ShoalBase</h2>
+        <p>Global community database of fish social behaviour</p>
+      </div>
+      <div class="footer-meta">
+        <div class="credits">&copy; 2026 ShoalBase | Data shared under CC BY-NC-ND 4.0 licence</div>
+        <div class="footer-links">
+          <a href="https://shoalbase.org/about">About</a> &middot;
+          <a href="https://species.shoalbase.org/">Explore</a> &middot;
+          <a href="https://shoalbase.org/contribute">Contribute</a> &middot;
+          <a href="https://shoalbase.org/observation-tips">Observation Tips</a> &middot;
+          <a href="https://shoalbase.org/methods">Methods</a> &middot;
+          <a href="https://shoalbase.org/contact">Contact</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
 </body>
 </html>
