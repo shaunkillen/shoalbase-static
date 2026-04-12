@@ -159,7 +159,7 @@ a { color: #D45F14; }
   gap: 20px;
 }
 .site-header .logo img {
-  height: 170px;
+  height: 195px;
   width: auto;
   display: block;
 }
@@ -174,7 +174,7 @@ a { color: #D45F14; }
   color: #fff;
   text-decoration: none;
   font-family: "Poppins", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
   letter-spacing: 0.3px;
   padding: 4px 0;
@@ -225,10 +225,10 @@ a { color: #D45F14; }
   max-width: 1200px;
   margin: 0 auto;
   background: #fef5d7;
-  border-radius: 24px;
+  border-radius: 50px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
   padding: 30px 40px 50px;
-  border: 20px solid #F8C389;
+  border: 9px solid #F8C389;
 }
 
 /* =============== Footer =============== */
