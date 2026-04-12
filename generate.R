@@ -151,7 +151,7 @@ a { color: #D45F14; }
 /* =============== Header =============== */
 .site-header {
   background: #1470AF;
-  padding: 36px 60px 32px 60px;
+  padding: 36px 65px 32px 65px;
   display: flex;
   align-items: center;
   justify-content: space-between;
