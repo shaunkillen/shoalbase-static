@@ -151,7 +151,7 @@ a { color: #D45F14; }
 /* =============== Header =============== */
 .site-header {
   background: #1470AF;
-  padding: 36px 50px 32px 50px;
+  padding: 36px 70px 32px 70px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -175,7 +175,7 @@ a { color: #D45F14; }
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
-  font-weight: 350;
+  font-weight: 500;
   letter-spacing: 0.3px;
   padding: 4px 0;
   cursor: pointer;
