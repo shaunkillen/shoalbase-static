@@ -19,7 +19,7 @@ library(htmltools)
 # ---- Config ----
 sheet_csv_url <- "https://docs.google.com/spreadsheets/d/e/2PACX-1vScflrcxVjeIuYkR8ipKw6IIo32vBHf4PWmMt9AwcUMvvS_XrW2FsO7yAeXftZAiqxWD9xeDsdW98CJ/pub?gid=1314366351&single=true&output=csv"
 shiny_app_url <- "https://shaunkillen.shinyapps.io/shoalshare_1/"
-site_url      <- "https://species.shoalbase.org"   # change if you pick a different subdomain
+site_url      <- "https://species.shoalbase.org"
 output_dir    <- "public"
 
 # ---- Valid value lists (from the Shiny app) ----
@@ -158,7 +158,7 @@ a { color: #D45F14; }
   padding: 8px 18px;
   color: #D45F14;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 20px;
   text-decoration: none;
   border-radius: 8px 8px 0 0;
   transition: background-color 0.12s ease;
