@@ -166,7 +166,7 @@ a { color: #D45F14; }
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 38px;
+  gap: 30px;
   flex-wrap: wrap;
 }
 .site-nav > a,
