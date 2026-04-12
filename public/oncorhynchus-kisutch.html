@@ -10,21 +10,25 @@
 <meta property="og:description" content="Social behaviour, group sizes, and habitat for Oncorhynchus kisutch (Coho salmon). Social systems: aggregation (spawning). Habitats: river/stream. 1 record in ShoalBase.">
 <meta property="og:url" content="https://species.shoalbase.org/oncorhynchus-kisutch.html">
 <meta property="og:type" content="article">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Taxon","name":"Oncorhynchus kisutch","alternateName":"Coho salmon","parentTaxon":"Salmonidae","taxonRank":"species","url":"https://species.shoalbase.org/oncorhynchus-kisutch.html"}</script>
 <style>
 * { box-sizing: border-box; }
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background:#1B6BA6;
-  color:#000;
-  margin:0;
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #1470AF;
+  color: #000;
+  margin: 0;
+  font-weight: 400;
 }
 a { color: #D45F14; }
 
 /* =============== Header =============== */
 .site-header {
-  background: #1B6BA6;
-  padding: 20px 40px;
+  background: #1470AF;
+  padding: 28px 50px 24px 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -32,31 +36,35 @@ a { color: #D45F14; }
   gap: 20px;
 }
 .site-header .logo img {
-  height: 72px;
+  height: 170px;
+  width: auto;
   display: block;
 }
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 32px;
+  gap: 38px;
   flex-wrap: wrap;
 }
-.site-nav > a, .site-nav .dropdown > span {
+.site-nav > a,
+.site-nav .dropdown > span {
   color: #fff;
   text-decoration: none;
-  font-size: 17px;
-  font-weight: 400;
-  letter-spacing: 0.2px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0.3px;
   padding: 4px 0;
   cursor: pointer;
 }
 .site-nav > a:hover,
 .site-nav .dropdown:hover > span {
   text-decoration: underline;
+  text-underline-offset: 5px;
 }
 .site-nav .active {
   text-decoration: underline;
-  text-underline-offset: 4px;
+  text-underline-offset: 5px;
 }
 
 /* Dropdown */
@@ -67,9 +75,9 @@ a { color: #D45F14; }
   top: 100%;
   left: 50%;
   transform: translateX(-50%);
-  background: #1B6BA6;
-  padding: 8px 0 4px 0;
-  min-width: 260px;
+  background: #1470AF;
+  padding: 10px 0 6px 0;
+  min-width: 290px;
   text-align: center;
   z-index: 10;
 }
@@ -79,13 +87,15 @@ a { color: #D45F14; }
   color: #fff;
   text-decoration: none;
   padding: 6px 12px;
+  font-family: "Poppins", sans-serif;
   font-size: 15px;
+  font-weight: 300;
 }
 .dropdown-content a:hover { text-decoration: underline; }
 
 /* =============== Container =============== */
 .page-frame {
-  background: #1B6BA6;
+  background: #1470AF;
   padding: 10px 20px 0 20px;
 }
 .container {
@@ -95,23 +105,16 @@ a { color: #D45F14; }
   border-radius: 24px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
   padding: 30px 40px 50px;
-  position: relative;
-  border: 3px solid #F4A460;
+  border: 20px solid #F8C389;
 }
 
 /* =============== Footer =============== */
-.site-footer-wrap {
-  background: #1B6BA6;
-  margin-top: 0;
-}
-.site-footer-wave {
-  display: block;
-  width: 100%;
-  height: 100px;
-}
+.site-footer-wrap { background: #1470AF; margin-top: 0; }
+.site-footer-wave { display: block; width: 100%; height: 100px; }
 .site-footer {
-  background: #F4A460;
-  padding: 30px 40px 50px 40px;
+  background: #F8C389;
+  padding: 30px 50px 50px 50px;
+  font-family: "Poppins", sans-serif;
 }
 .site-footer-inner {
   max-width: 1400px;
@@ -123,32 +126,27 @@ a { color: #D45F14; }
   gap: 30px;
 }
 .footer-brand h2 {
-  color: #1B6BA6;
-  font-size: 38px;
+  color: #1470AF;
+  font-size: 40px;
   font-weight: 500;
   margin: 0 0 10px 0;
 }
 .footer-brand p {
   color: #000;
   font-size: 16px;
+  font-weight: 400;
   margin: 0;
 }
-.footer-meta {
-  text-align: right;
-  color: #000;
-  font-size: 15px;
-}
-.footer-meta .credits {
-  margin-bottom: 10px;
-}
+.footer-meta { text-align: right; color: #000; font-size: 15px; }
+.footer-meta .credits { margin-bottom: 10px; }
 .footer-links a {
   color: #000;
   text-decoration: underline;
   margin: 0 3px;
 }
 
-/* =============== Content styles =============== */
-h1, h2, h3, h4 { color: #000; font-weight: 600; }
+/* =============== Content =============== */
+h1, h2, h3, h4 { color: #000; font-family: "Poppins", sans-serif; font-weight: 600; }
 h1 { font-style: italic; color: #2c3e50; margin-bottom: 4px; }
 h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.6em; }
 
@@ -193,6 +191,7 @@ h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.
   text-decoration: none;
   font-weight: 600;
   font-size: 14px;
+  font-family: "Poppins", sans-serif;
 }
 .btn-app { background: #F57627; font-size: 16px; padding: 12px 22px; }
 .btn-fishbase { background: #F57627; }
@@ -209,6 +208,7 @@ h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  font-family: "Poppins", sans-serif;
 }
 .species-table thead tr { background: #F57627; color: #fff; }
 .species-table th { padding: 12px; text-align: left; font-weight: 600; }
@@ -242,7 +242,7 @@ h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.
     <div class="dropdown">
       <span class="active">Explore the Data</span>
       <div class="dropdown-content">
-        <a href="https://shaunkillen.shinyapps.io/shoalshare_1/">Interactive Data Exploration &amp; Download</a>
+        <a href="https://www.shoalbase.org/explore">Interactive Data Exploration &amp; Download</a>
         <a href="https://species.shoalbase.org/">Browse Species</a>
       </div>
     </div>
@@ -261,7 +261,7 @@ h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.
 
 <div class="site-footer-wrap">
   <svg class="site-footer-wave" viewBox="0 0 1440 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0,60 C280,100 520,0 800,40 C1100,85 1300,30 1440,50 L1440,100 L0,100 Z" fill="#F4A460"/>
+    <path d="M0,60 C280,100 520,0 800,40 C1100,85 1300,30 1440,50 L1440,100 L0,100 Z" fill="#F8C389"/>
   </svg>
   <footer class="site-footer">
     <div class="site-footer-inner">
@@ -273,7 +273,7 @@ h1 .common { font-style: normal; font-weight: 400; color: #7a4a2b; font-size: 0.
         <div class="credits">&copy; 2026 ShoalBase | Data shared under CC BY-NC-ND 4.0 licence</div>
         <div class="footer-links">
           <a href="https://shoalbase.org/about">About</a> &middot;
-          <a href="https://species.shoalbase.org/">Explore</a> &middot;
+          <a href="https://www.shoalbase.org/explore">Explore</a> &middot;
           <a href="https://shoalbase.org/contribute">Contribute</a> &middot;
           <a href="https://shoalbase.org/observation-tips">Observation Tips</a> &middot;
           <a href="https://shoalbase.org/methods">Methods</a> &middot;
