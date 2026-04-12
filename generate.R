@@ -174,7 +174,7 @@ a { color: #D45F14; }
   color: #FFF4D9;
   text-decoration: none;
   font-family: "Poppins", sans-serif;
-  font-size: 16px;
+  font-size: 15.5px;
   font-weight: 400;
   letter-spacing: 0.1px;
   padding: 4px 0;
