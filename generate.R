@@ -151,7 +151,7 @@ a { color: #D45F14; }
 /* =============== Header =============== */
 .site-header {
   background: #1470AF;
-  padding: 40px 63px 32px 63px;
+  padding: 40px 60px 32px 60px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -166,7 +166,7 @@ a { color: #D45F14; }
 .site-nav {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 30px;
   flex-wrap: wrap;
 }
 .site-nav > a,
