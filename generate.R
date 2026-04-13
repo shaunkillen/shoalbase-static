@@ -498,7 +498,7 @@ for (sp in species_list) {
     '</table></div>',
 
     '<div class="btn-row">',
-    '<a class="btn btn-app" href="', esc(shiny_app_url), '?species=', q_enc, '">',
+    '<a class="btn btn-app" href="https://www.shoalbase.org/explore">',
     'Explore interactively on ShoalBase \u2192</a>',
     '</div>',
 
@@ -539,7 +539,7 @@ index_body <- paste0(
   '<p style="font-size:16px;">', length(index_rows),
   ' species currently in the database. ',
   'Click any species for a summary, or use the ',
-  '<a href="', esc(shiny_app_url), '">interactive app</a> for full exploration.</p>',
+ '<a href="https://www.shoalbase.org/explore">interactive app</a> for full exploration.</p>',
   '<div class="notice">',
   '<strong>ShoalBase is a living database.</strong> New records are added continuously ',
   'and existing entries are subject to curation. The species list and record counts below ',
