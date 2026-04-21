@@ -71,7 +71,6 @@
 <url><loc>https://species.shoalbase.org/bathylagus-pacificus.html</loc></url>
 <url><loc>https://species.shoalbase.org/bathymaster-signatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/bathypterois-grallator.html</loc></url>
-<url><loc>https://species.shoalbase.org/bathytoshia-brevicaudata.html</loc></url>
 <url><loc>https://species.shoalbase.org/bathytoshia-pastinaca.html</loc></url>
 <url><loc>https://species.shoalbase.org/bathyuroconger-vicinus.html</loc></url>
 <url><loc>https://species.shoalbase.org/belone-belone.html</loc></url>
@@ -184,6 +183,7 @@
 <url><loc>https://species.shoalbase.org/danio-kerri.html</loc></url>
 <url><loc>https://species.shoalbase.org/danio-rerio.html</loc></url>
 <url><loc>https://species.shoalbase.org/dascyllus-aruanus.html</loc></url>
+<url><loc>https://species.shoalbase.org/dasyatis-brevicaudata.html</loc></url>
 <url><loc>https://species.shoalbase.org/dasycottus-setiger.html</loc></url>
 <url><loc>https://species.shoalbase.org/deania-calceus.html</loc></url>
 <url><loc>https://species.shoalbase.org/deania-profundorum.html</loc></url>
@@ -201,11 +201,13 @@
 <url><loc>https://species.shoalbase.org/diplodus-sargus.html</loc></url>
 <url><loc>https://species.shoalbase.org/diplodus-vulgaris.html</loc></url>
 <url><loc>https://species.shoalbase.org/dipturus-laevis.html</loc></url>
+<url><loc>https://species.shoalbase.org/dorosoma-cepedianum.html</loc></url>
 <url><loc>https://species.shoalbase.org/dotalabrus-aurantiacus.html</loc></url>
-<url><loc>https://species.shoalbase.org/ebinania-costaecanarie.html</loc></url>
+<url><loc>https://species.shoalbase.org/ebinania-costaecanariae.html</loc></url>
 <url><loc>https://species.shoalbase.org/echidna-nebulosa.html</loc></url>
 <url><loc>https://species.shoalbase.org/echiichthys-vipera.html</loc></url>
 <url><loc>https://species.shoalbase.org/eleginus-gracilis.html</loc></url>
+<url><loc>https://species.shoalbase.org/encheliophis-homei.html</loc></url>
 <url><loc>https://species.shoalbase.org/enchelyopus-cimbrius.html</loc></url>
 <url><loc>https://species.shoalbase.org/engraulis-encrasicolus.html</loc></url>
 <url><loc>https://species.shoalbase.org/enoplosus-armatus.html</loc></url>
@@ -225,6 +227,7 @@
 <url><loc>https://species.shoalbase.org/etropus-microstomus.html</loc></url>
 <url><loc>https://species.shoalbase.org/eubalichthys-mosaicus.html</loc></url>
 <url><loc>https://species.shoalbase.org/eupetrichthys-angustipes.html</loc></url>
+<url><loc>https://species.shoalbase.org/euthynnus-affinis.html</loc></url>
 <url><loc>https://species.shoalbase.org/eutrigla-gurnardus.html</loc></url>
 <url><loc>https://species.shoalbase.org/fistularia-commersonii.html</loc></url>
 <url><loc>https://species.shoalbase.org/fistularia-petimba.html</loc></url>
@@ -232,6 +235,7 @@
 <url><loc>https://species.shoalbase.org/gadella-imberbis.html</loc></url>
 <url><loc>https://species.shoalbase.org/gadiculus-argenteus.html</loc></url>
 <url><loc>https://species.shoalbase.org/gadopsis-bispinosus.html</loc></url>
+<url><loc>https://species.shoalbase.org/gadus-chalcogrammus.html</loc></url>
 <url><loc>https://species.shoalbase.org/gadus-macrocephalus.html</loc></url>
 <url><loc>https://species.shoalbase.org/gadus-morhua.html</loc></url>
 <url><loc>https://species.shoalbase.org/galaxias-brevipinnis.html</loc></url>
@@ -245,6 +249,7 @@
 <url><loc>https://species.shoalbase.org/gambusia-holbrooki.html</loc></url>
 <url><loc>https://species.shoalbase.org/gasterosteus-aculeatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/gasterosteus-wheatlandi.html</loc></url>
+<url><loc>https://species.shoalbase.org/genyagnus-monopterygius.html</loc></url>
 <url><loc>https://species.shoalbase.org/genypterus-capensis.html</loc></url>
 <url><loc>https://species.shoalbase.org/ginglymostoma-cirratum.html</loc></url>
 <url><loc>https://species.shoalbase.org/girella-elevata.html</loc></url>
@@ -255,9 +260,11 @@
 <url><loc>https://species.shoalbase.org/gobiomorphus-australis.html</loc></url>
 <url><loc>https://species.shoalbase.org/gymnocanthus-tricuspis.html</loc></url>
 <url><loc>https://species.shoalbase.org/gymnocorymbus-ternetzi.html</loc></url>
+<url><loc>https://species.shoalbase.org/gymnoscopelus-braueri.html</loc></url>
 <url><loc>https://species.shoalbase.org/gymnothorax-thyrsoideus.html</loc></url>
 <url><loc>https://species.shoalbase.org/haletta-semifasciata.html</loc></url>
 <url><loc>https://species.shoalbase.org/harengula-thrissina.html</loc></url>
+<url><loc>https://species.shoalbase.org/harpagifer-bispinis.html</loc></url>
 <url><loc>https://species.shoalbase.org/helicolenus-dactylopterus.html</loc></url>
 <url><loc>https://species.shoalbase.org/hemibarbus-maculatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/hemilepidotus-jordani.html</loc></url>
@@ -448,7 +455,6 @@
 <url><loc>https://species.shoalbase.org/sander-vitreus.html</loc></url>
 <url><loc>https://species.shoalbase.org/sarpa-salpa.html</loc></url>
 <url><loc>https://species.shoalbase.org/scardinius-erythrophthalmus.html</loc></url>
-<url><loc>https://species.shoalbase.org/scardinius-erythrophthalmus.html</loc></url>
 <url><loc>https://species.shoalbase.org/scarus-ghobban.html</loc></url>
 <url><loc>https://species.shoalbase.org/scarus-tricolor.html</loc></url>
 <url><loc>https://species.shoalbase.org/schizothorax-prenanti.html</loc></url>
@@ -505,7 +511,6 @@
 <url><loc>https://species.shoalbase.org/taurulus-bubalis.html</loc></url>
 <url><loc>https://species.shoalbase.org/thalassoma-lucasanum.html</loc></url>
 <url><loc>https://species.shoalbase.org/thalassoma-trilobatum.html</loc></url>
-<url><loc>https://species.shoalbase.org/theragra-chalcogrammus.html</loc></url>
 <url><loc>https://species.shoalbase.org/thunnus-alalunga.html</loc></url>
 <url><loc>https://species.shoalbase.org/thunnus-albacares.html</loc></url>
 <url><loc>https://species.shoalbase.org/thunnus-maccoyii.html</loc></url>
