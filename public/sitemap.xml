@@ -17,6 +17,7 @@
 <url><loc>https://species.shoalbase.org/aetobatus-narinari.html</loc></url>
 <url><loc>https://species.shoalbase.org/aetobatus-ocellatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/agonus-cataphractus.html</loc></url>
+<url><loc>https://species.shoalbase.org/aldrichetta-forsteri.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-aestivalis.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-pseudoharengus.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-sapidissima.html</loc></url>
@@ -39,6 +40,8 @@
 <url><loc>https://species.shoalbase.org/anguilla-australis.html</loc></url>
 <url><loc>https://species.shoalbase.org/anguilla-dieffenbachii.html</loc></url>
 <url><loc>https://species.shoalbase.org/anguilla-rostrata.html</loc></url>
+<url><loc>https://species.shoalbase.org/anisotremus-moricandi.html</loc></url>
+<url><loc>https://species.shoalbase.org/anisotremus-virginicus.html</loc></url>
 <url><loc>https://species.shoalbase.org/anoplopoma-fimbria.html</loc></url>
 <url><loc>https://species.shoalbase.org/antimora-rostrata.html</loc></url>
 <url><loc>https://species.shoalbase.org/aphanius-iberus.html</loc></url>
@@ -55,6 +58,8 @@
 <url><loc>https://species.shoalbase.org/astatotilapia-burtoni.html</loc></url>
 <url><loc>https://species.shoalbase.org/astronotus-ocellatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/astyanax-altior.html</loc></url>
+<url><loc>https://species.shoalbase.org/astyanax-fasciatus.html</loc></url>
+<url><loc>https://species.shoalbase.org/astyanax-mexicanus.html</loc></url>
 <url><loc>https://species.shoalbase.org/atheresthes-stomias.html</loc></url>
 <url><loc>https://species.shoalbase.org/atherina-presbyter.html</loc></url>
 <url><loc>https://species.shoalbase.org/atractoscion-aequidens.html</loc></url>
@@ -99,6 +104,7 @@
 <url><loc>https://species.shoalbase.org/calophysus-macropterus.html</loc></url>
 <url><loc>https://species.shoalbase.org/calotomus-japonicus.html</loc></url>
 <url><loc>https://species.shoalbase.org/canthigaster-jactator.html</loc></url>
+<url><loc>https://species.shoalbase.org/carangoides-bartholomaei.html</loc></url>
 <url><loc>https://species.shoalbase.org/caranx-caninus.html</loc></url>
 <url><loc>https://species.shoalbase.org/caranx-ruber.html</loc></url>
 <url><loc>https://species.shoalbase.org/carassius-auratus.html</loc></url>
@@ -151,6 +157,7 @@
 <url><loc>https://species.shoalbase.org/choerodon-schoenleinii.html</loc></url>
 <url><loc>https://species.shoalbase.org/chromis-chromis.html</loc></url>
 <url><loc>https://species.shoalbase.org/chromis-hypsilepsis.html</loc></url>
+<url><loc>https://species.shoalbase.org/chromis-multilineata.html</loc></url>
 <url><loc>https://species.shoalbase.org/chromis-punctipinnis.html</loc></url>
 <url><loc>https://species.shoalbase.org/chromis-viridis.html</loc></url>
 <url><loc>https://species.shoalbase.org/chromobotia-macracanthus.html</loc></url>
@@ -179,6 +186,7 @@
 <url><loc>https://species.shoalbase.org/cyclopterus-lumpus.html</loc></url>
 <url><loc>https://species.shoalbase.org/cymatogaster-aggregata.html</loc></url>
 <url><loc>https://species.shoalbase.org/cynoglossus-zanzibarensis.html</loc></url>
+<url><loc>https://species.shoalbase.org/cyprinella-venusta.html</loc></url>
 <url><loc>https://species.shoalbase.org/cyprinus-carpio.html</loc></url>
 <url><loc>https://species.shoalbase.org/dactylophora-nigricans.html</loc></url>
 <url><loc>https://species.shoalbase.org/danio-kerri.html</loc></url>
@@ -227,6 +235,7 @@
 <url><loc>https://species.shoalbase.org/etmopterus-polli.html</loc></url>
 <url><loc>https://species.shoalbase.org/etropus-microstomus.html</loc></url>
 <url><loc>https://species.shoalbase.org/eubalichthys-mosaicus.html</loc></url>
+<url><loc>https://species.shoalbase.org/eucinostomus-lefroyi.html</loc></url>
 <url><loc>https://species.shoalbase.org/eupetrichthys-angustipes.html</loc></url>
 <url><loc>https://species.shoalbase.org/euthynnus-affinis.html</loc></url>
 <url><loc>https://species.shoalbase.org/eutrigla-gurnardus.html</loc></url>
@@ -265,6 +274,7 @@
 <url><loc>https://species.shoalbase.org/gymnothorax-thyrsoideus.html</loc></url>
 <url><loc>https://species.shoalbase.org/haletta-semifasciata.html</loc></url>
 <url><loc>https://species.shoalbase.org/harengula-thrissina.html</loc></url>
+<url><loc>https://species.shoalbase.org/harenngula-clupeola.html</loc></url>
 <url><loc>https://species.shoalbase.org/harpagifer-bispinis.html</loc></url>
 <url><loc>https://species.shoalbase.org/helicolenus-dactylopterus.html</loc></url>
 <url><loc>https://species.shoalbase.org/hemibarbus-maculatus.html</loc></url>
@@ -327,8 +337,10 @@
 <url><loc>https://species.shoalbase.org/lophius-piscatorius.html</loc></url>
 <url><loc>https://species.shoalbase.org/lucania-goodei.html</loc></url>
 <url><loc>https://species.shoalbase.org/luciobarbus-capito.html</loc></url>
+<url><loc>https://species.shoalbase.org/lutjanus-alexandrei.html</loc></url>
 <url><loc>https://species.shoalbase.org/lutjanus-fulvus.html</loc></url>
 <url><loc>https://species.shoalbase.org/lutjanus-griseus.html</loc></url>
+<url><loc>https://species.shoalbase.org/lutjanus-jocu.html</loc></url>
 <url><loc>https://species.shoalbase.org/lutjanus-viridis.html</loc></url>
 <url><loc>https://species.shoalbase.org/luxilus-cornutus.html</loc></url>
 <url><loc>https://species.shoalbase.org/lycodes-raridens.html</loc></url>
@@ -338,6 +350,7 @@
 <url><loc>https://species.shoalbase.org/malacoraja-senta.html</loc></url>
 <url><loc>https://species.shoalbase.org/mallotus-villosus.html</loc></url>
 <url><loc>https://species.shoalbase.org/mayaheros-urophthalmus.html</loc></url>
+<url><loc>https://species.shoalbase.org/meiacanthus-nigrolineatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/melamphaes-lugubris.html</loc></url>
 <url><loc>https://species.shoalbase.org/melamphaes-parvus.html</loc></url>
 <url><loc>https://species.shoalbase.org/melanogrammus-aeglefinus.html</loc></url>
@@ -363,6 +376,7 @@
 <url><loc>https://species.shoalbase.org/mugil-cephalus.html</loc></url>
 <url><loc>https://species.shoalbase.org/mugil-curema.html</loc></url>
 <url><loc>https://species.shoalbase.org/mulloidichthys-flavolineatus.html</loc></url>
+<url><loc>https://species.shoalbase.org/mulloidichthys-martinicus.html</loc></url>
 <url><loc>https://species.shoalbase.org/mullus-barbatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/muraena-helena.html</loc></url>
 <url><loc>https://species.shoalbase.org/mylocheilus-caurinus.html</loc></url>
@@ -380,7 +394,9 @@
 <url><loc>https://species.shoalbase.org/nerophis-ophidion.html</loc></url>
 <url><loc>https://species.shoalbase.org/nocomis-biguttatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/notemigonus-crysoleucas.html</loc></url>
+<url><loc>https://species.shoalbase.org/notropis-amabilis.html</loc></url>
 <url><loc>https://species.shoalbase.org/notropis-rubellus.html</loc></url>
+<url><loc>https://species.shoalbase.org/ocyurus-chrysurus.html</loc></url>
 <url><loc>https://species.shoalbase.org/oligocottus-maculosus.html</loc></url>
 <url><loc>https://species.shoalbase.org/olisthops-cyanomelas.html</loc></url>
 <url><loc>https://species.shoalbase.org/oncorhynchus-keta.html</loc></url>
@@ -433,6 +449,7 @@
 <url><loc>https://species.shoalbase.org/pseudomugil-tenellus.html</loc></url>
 <url><loc>https://species.shoalbase.org/pseudopleuronectes-americanus.html</loc></url>
 <url><loc>https://species.shoalbase.org/pseudorasbora-parva.html</loc></url>
+<url><loc>https://species.shoalbase.org/pseudupeneus-maculatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/pterophyllum-scalare.html</loc></url>
 <url><loc>https://species.shoalbase.org/pterygoplichthys-sp.html</loc></url>
 <url><loc>https://species.shoalbase.org/pungitius-pungitius.html</loc></url>
@@ -460,6 +477,8 @@
 <url><loc>https://species.shoalbase.org/scardinius-erythrophthalmus.html</loc></url>
 <url><loc>https://species.shoalbase.org/scarus-ghobban.html</loc></url>
 <url><loc>https://species.shoalbase.org/scarus-tricolor.html</loc></url>
+<url><loc>https://species.shoalbase.org/scarus-trispinosus.html</loc></url>
+<url><loc>https://species.shoalbase.org/scarus-zelindae.html</loc></url>
 <url><loc>https://species.shoalbase.org/schizothorax-prenanti.html</loc></url>
 <url><loc>https://species.shoalbase.org/sciaena-umbra.html</loc></url>
 <url><loc>https://species.shoalbase.org/scomber-japonicus.html</loc></url>
@@ -486,6 +505,7 @@
 <url><loc>https://species.shoalbase.org/siganus-fuscescens.html</loc></url>
 <url><loc>https://species.shoalbase.org/siphonognathus-beddomei.html</loc></url>
 <url><loc>https://species.shoalbase.org/solea-solea.html</loc></url>
+<url><loc>https://species.shoalbase.org/sparisoma-axillare.html</loc></url>
 <url><loc>https://species.shoalbase.org/sphoeroides-annulatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/sphyraena-barracuda.html</loc></url>
 <url><loc>https://species.shoalbase.org/sphyraena-sphyraena.html</loc></url>
