@@ -114,6 +114,7 @@
 <url><loc>https://species.shoalbase.org/canthigaster-jactator.html</loc></url>
 <url><loc>https://species.shoalbase.org/carangoides-bartholomaei.html</loc></url>
 <url><loc>https://species.shoalbase.org/caranx-caninus.html</loc></url>
+<url><loc>https://species.shoalbase.org/caranx-crysos.html</loc></url>
 <url><loc>https://species.shoalbase.org/caranx-ruber.html</loc></url>
 <url><loc>https://species.shoalbase.org/carassius-auratus.html</loc></url>
 <url><loc>https://species.shoalbase.org/carassius-carassius.html</loc></url>
@@ -470,6 +471,7 @@
 <url><loc>https://species.shoalbase.org/otocinclus-vestitus.html</loc></url>
 <url><loc>https://species.shoalbase.org/oxymonacanthus-longirostris.html</loc></url>
 <url><loc>https://species.shoalbase.org/pangio-kuhlii.html</loc></url>
+<url><loc>https://species.shoalbase.org/parablennius-gattorugine.html</loc></url>
 <url><loc>https://species.shoalbase.org/parablennius-sanguinolentus.html</loc></url>
 <url><loc>https://species.shoalbase.org/parabramis-pekinensis.html</loc></url>
 <url><loc>https://species.shoalbase.org/paracheirodon-axelrodi.html</loc></url>
@@ -610,6 +612,9 @@
 <url><loc>https://species.shoalbase.org/stiphodon-hadiatyae.html</loc></url>
 <url><loc>https://species.shoalbase.org/striuntius-lateristriga.html</loc></url>
 <url><loc>https://species.shoalbase.org/strongylura-marina.html</loc></url>
+<url><loc>https://species.shoalbase.org/symphodus-doderleini.html</loc></url>
+<url><loc>https://species.shoalbase.org/symphodus-ocellatus.html</loc></url>
+<url><loc>https://species.shoalbase.org/symphodus-tinca.html</loc></url>
 <url><loc>https://species.shoalbase.org/symphysodon-aequifasciatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/synodus-lucioceps.html</loc></url>
 <url><loc>https://species.shoalbase.org/synodus-saurus.html</loc></url>
@@ -632,10 +637,12 @@
 <url><loc>https://species.shoalbase.org/tomicodon-zebra.html</loc></url>
 <url><loc>https://species.shoalbase.org/toxotes-jaculatrix.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachichthys-australis.html</loc></url>
+<url><loc>https://species.shoalbase.org/trachinotus-ovatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachinus-araneus.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachinus-vipera.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachipterus-altivelis.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachurus-capensis.html</loc></url>
+<url><loc>https://species.shoalbase.org/trachurus-mediterraneus.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachurus-symmetricus.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachurus-trachurus.html</loc></url>
 <url><loc>https://species.shoalbase.org/trachurus-trecae.html</loc></url>
