@@ -20,14 +20,17 @@
 <url><loc>https://species.shoalbase.org/aetobatus-narinari.html</loc></url>
 <url><loc>https://species.shoalbase.org/aetobatus-ocellatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/agonus-cataphractus.html</loc></url>
+<url><loc>https://species.shoalbase.org/albatrossia-pectoralis.html</loc></url>
 <url><loc>https://species.shoalbase.org/alburnus-alburnus.html</loc></url>
 <url><loc>https://species.shoalbase.org/alburnus-arborella.html</loc></url>
 <url><loc>https://species.shoalbase.org/aldrichetta-forsteri.html</loc></url>
+<url><loc>https://species.shoalbase.org/alepocephalus-tenebrosus.html</loc></url>
 <url><loc>https://species.shoalbase.org/allothunnus-fallai.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-aestivalis.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-pseudoharengus.html</loc></url>
 <url><loc>https://species.shoalbase.org/alosa-sapidissima.html</loc></url>
 <url><loc>https://species.shoalbase.org/alticus-arnoldorum.html</loc></url>
+<url><loc>https://species.shoalbase.org/aluterus-schoepfii.html</loc></url>
 <url><loc>https://species.shoalbase.org/aluterus-scriptus.html</loc></url>
 <url><loc>https://species.shoalbase.org/ambloplites-rupestris.html</loc></url>
 <url><loc>https://species.shoalbase.org/amblyraja-radiata.html</loc></url>
@@ -42,6 +45,7 @@
 <url><loc>https://species.shoalbase.org/amphiprion-percula.html</loc></url>
 <url><loc>https://species.shoalbase.org/amphiprioninae.html</loc></url>
 <url><loc>https://species.shoalbase.org/anarhichas-lupus.html</loc></url>
+<url><loc>https://species.shoalbase.org/anchoa-hepsetus.html</loc></url>
 <url><loc>https://species.shoalbase.org/anchoa-mitchilli.html</loc></url>
 <url><loc>https://species.shoalbase.org/anchoa-sp.html</loc></url>
 <url><loc>https://species.shoalbase.org/ancistrus-cirrhosus.html</loc></url>
@@ -139,8 +143,10 @@
 <url><loc>https://species.shoalbase.org/carcharias-taurus.html</loc></url>
 <url><loc>https://species.shoalbase.org/carcharodon-carcharias.html</loc></url>
 <url><loc>https://species.shoalbase.org/carlarius-parkii.html</loc></url>
+<url><loc>https://species.shoalbase.org/catostomus-commersoni.html</loc></url>
 <url><loc>https://species.shoalbase.org/catostomus-commersonii.html</loc></url>
 <url><loc>https://species.shoalbase.org/catostomus-macrocheilus.html</loc></url>
+<url><loc>https://species.shoalbase.org/catostomus-platyrhynchus.html</loc></url>
 <url><loc>https://species.shoalbase.org/centrolophus-niger.html</loc></url>
 <url><loc>https://species.shoalbase.org/centropristis-striata.html</loc></url>
 <url><loc>https://species.shoalbase.org/cephalopholis-microprion.html</loc></url>
@@ -467,6 +473,7 @@
 <url><loc>https://species.shoalbase.org/molva-molva.html</loc></url>
 <url><loc>https://species.shoalbase.org/monodactylus-argenteus.html</loc></url>
 <url><loc>https://species.shoalbase.org/monolene-microstoma.html</loc></url>
+<url><loc>https://species.shoalbase.org/morone-chrysops.html</loc></url>
 <url><loc>https://species.shoalbase.org/mugil-cephalus.html</loc></url>
 <url><loc>https://species.shoalbase.org/mugil-curema.html</loc></url>
 <url><loc>https://species.shoalbase.org/mulloidichthys-flavolineatus.html</loc></url>
@@ -553,6 +560,7 @@
 <url><loc>https://species.shoalbase.org/perca-flavescens.html</loc></url>
 <url><loc>https://species.shoalbase.org/perca-fluviatilis.html</loc></url>
 <url><loc>https://species.shoalbase.org/percalates-novemaculeata.html</loc></url>
+<url><loc>https://species.shoalbase.org/percina-caprodes.html</loc></url>
 <url><loc>https://species.shoalbase.org/phenacogrammus-interruptus.html</loc></url>
 <url><loc>https://species.shoalbase.org/pholis-gunnellus.html</loc></url>
 <url><loc>https://species.shoalbase.org/phoxinus-phoxinus.html</loc></url>
@@ -644,6 +652,7 @@
 <url><loc>https://species.shoalbase.org/sciaena-umbra.html</loc></url>
 <url><loc>https://species.shoalbase.org/scomber-japonicus.html</loc></url>
 <url><loc>https://species.shoalbase.org/scomber-scombrus.html</loc></url>
+<url><loc>https://species.shoalbase.org/scomberesox-saurus.html</loc></url>
 <url><loc>https://species.shoalbase.org/scomberomorus-commerson.html</loc></url>
 <url><loc>https://species.shoalbase.org/scomberomorus-munroi.html</loc></url>
 <url><loc>https://species.shoalbase.org/scopelogadus-bispinosus.html</loc></url>
