@@ -170,6 +170,7 @@
 <url><loc>https://species.shoalbase.org/chaetodipterus-faber.html</loc></url>
 <url><loc>https://species.shoalbase.org/chaetodipterus-zonatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/chaetodon-auriga.html</loc></url>
+<url><loc>https://species.shoalbase.org/chaetodon-austriacus.html</loc></url>
 <url><loc>https://species.shoalbase.org/chaetodon-baronessa.html</loc></url>
 <url><loc>https://species.shoalbase.org/chaetodon-hoefleri.html</loc></url>
 <url><loc>https://species.shoalbase.org/chaetodon-interruptus.html</loc></url>
@@ -299,6 +300,7 @@
 <url><loc>https://species.shoalbase.org/epinephelus-marginatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/epinephelus-morio.html</loc></url>
 <url><loc>https://species.shoalbase.org/epinephelus-polyphekadion.html</loc></url>
+<url><loc>https://species.shoalbase.org/epinephelus-tukula.html</loc></url>
 <url><loc>https://species.shoalbase.org/eptatretus-stoutii.html</loc></url>
 <url><loc>https://species.shoalbase.org/eques-lanceolatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/erimystax-x-punctatus.html</loc></url>
@@ -355,8 +357,10 @@
 <url><loc>https://species.shoalbase.org/gymnothorax-saxicola.html</loc></url>
 <url><loc>https://species.shoalbase.org/gymnothorax-thyrsoideus.html</loc></url>
 <url><loc>https://species.shoalbase.org/gymnura-micrura.html</loc></url>
+<url><loc>https://species.shoalbase.org/haemulon-aurolineatum.html</loc></url>
 <url><loc>https://species.shoalbase.org/haemulon-plumierii.html</loc></url>
 <url><loc>https://species.shoalbase.org/haletta-semifasciata.html</loc></url>
+<url><loc>https://species.shoalbase.org/halichoeres-hortulanus.html</loc></url>
 <url><loc>https://species.shoalbase.org/harengula-clupeola.html</loc></url>
 <url><loc>https://species.shoalbase.org/harengula-jaguana.html</loc></url>
 <url><loc>https://species.shoalbase.org/harengula-thrissina.html</loc></url>
@@ -624,6 +628,7 @@
 <url><loc>https://species.shoalbase.org/oryzias-latipes.html</loc></url>
 <url><loc>https://species.shoalbase.org/osmerus-mordax.html</loc></url>
 <url><loc>https://species.shoalbase.org/osteoglossum-bicirrhosum.html</loc></url>
+<url><loc>https://species.shoalbase.org/ostracion-cubicum.html</loc></url>
 <url><loc>https://species.shoalbase.org/ostracion-meleagris.html</loc></url>
 <url><loc>https://species.shoalbase.org/otocinclus-vestitus.html</loc></url>
 <url><loc>https://species.shoalbase.org/oxylebius-pictus.html</loc></url>
@@ -685,6 +690,7 @@
 <url><loc>https://species.shoalbase.org/poecilia-sphenops.html</loc></url>
 <url><loc>https://species.shoalbase.org/pollachius-virens.html</loc></url>
 <url><loc>https://species.shoalbase.org/polypterus-ornatipinnis.html</loc></url>
+<url><loc>https://species.shoalbase.org/pomacanthus-maculosus.html</loc></url>
 <url><loc>https://species.shoalbase.org/pomacentrus-amboinensis.html</loc></url>
 <url><loc>https://species.shoalbase.org/pomatomus-saltatrix.html</loc></url>
 <url><loc>https://species.shoalbase.org/pomatoschistus-minutus.html</loc></url>
@@ -856,6 +862,7 @@
 <url><loc>https://species.shoalbase.org/symphurus-atricauda.html</loc></url>
 <url><loc>https://species.shoalbase.org/symphysodon-aequifasciatus.html</loc></url>
 <url><loc>https://species.shoalbase.org/syngnathus-acus.html</loc></url>
+<url><loc>https://species.shoalbase.org/synodus-intermedius.html</loc></url>
 <url><loc>https://species.shoalbase.org/synodus-lucioceps.html</loc></url>
 <url><loc>https://species.shoalbase.org/synodus-saurus.html</loc></url>
 <url><loc>https://species.shoalbase.org/taenianotus-triacanthus.html</loc></url>
